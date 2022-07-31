@@ -1,5 +1,5 @@
 
-==========================================
+
 Assignment
 ==========================================
 
@@ -45,7 +45,7 @@ Data Set
 - casual: count of casual users
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
-=========================================
+
 Associated tasks
 =========================================
 
@@ -55,7 +55,7 @@ Develop a model to find the variables that are significant in the demand for sha
 The variables that are significant in predicting the demand for shared bikes (at least 3).
 
 
-=========================================
+
 Implementation
 =========================================
 - Data Exploration
